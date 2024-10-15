@@ -1,8 +1,8 @@
 Here’s a structured description for your GitHub repository, complete with icons, bullet points, and a detailed explanation. You can customize it further if needed.
 
 ---
-# 🐍 Django Project
-# 📝 Django Data Input and Display Project
+# 🐍 Testing Django Project
+## 📝 Django Data Input and Display Project
 
 This project is a simple Django web application that allows users to input data through a form, save it to a database, and view it in the Django admin panel. This guide will walk you through the steps of setting up your own project based on this implementation.
 
@@ -25,11 +25,16 @@ https://github.com/user-attachments/assets/9facb832-336e-4e23-8632-b430d480daff
 Here's a structured and detailed description for your GitHub repository that outlines the setup and implementation of your Django project. This format includes proper headings, bullet points, icons, and clear instructions to help other users understand and implement the project.
 
 ---
+![image](https://github.com/user-attachments/assets/db8a5792-9e67-4526-8af2-d026302e97be)
 
 
 
 ## 📋 Overview
 This repository contains a simple Django project that demonstrates how to create a RESTful API for saving and retrieving data using Django and Django REST Framework. 
+
+![image](https://github.com/user-attachments/assets/822eb847-7900-4fcf-b412-659955b6ca96)
+
+![image](https://github.com/user-attachments/assets/b3dd7d00-ecdf-416d-9f4e-b439d688ef0e)
 
 ## 🛠️ Getting Started
 
